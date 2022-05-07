@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ### Downloading official pretrained weights
-For Linux: Let's download official weights pretrained on COCO dataset. 
+For Linux: Let's download official weights pretrained on [COCO](https://cocodataset.org/#home) dataset. 
 
 ```
 wget -P weights https://pjreddie.com/media/files/yolov3.weights
